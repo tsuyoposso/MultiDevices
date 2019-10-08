@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FED94524234C925200322FB3 /* iPhoneXS.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FED94523234C925200322FB3 /* iPhoneXS.storyboard */; };
 		FEEF2C76234C8E15000373F3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEF2C75234C8E15000373F3 /* AppDelegate.swift */; };
 		FEEF2C78234C8E15000373F3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEF2C77234C8E15000373F3 /* SceneDelegate.swift */; };
 		FEEF2C7A234C8E15000373F3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEF2C79234C8E15000373F3 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FED94523234C925200322FB3 /* iPhoneXS.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = iPhoneXS.storyboard; sourceTree = "<group>"; };
 		FEEF2C72234C8E15000373F3 /* Multi-Devices.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Multi-Devices.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEEF2C75234C8E15000373F3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FEEF2C77234C8E15000373F3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				FEEF2C77234C8E15000373F3 /* SceneDelegate.swift */,
 				FEEF2C79234C8E15000373F3 /* ViewController.swift */,
 				FEEF2C7B234C8E15000373F3 /* Main.storyboard */,
+				FED94523234C925200322FB3 /* iPhoneXS.storyboard */,
 				FEEF2C7E234C8E19000373F3 /* Assets.xcassets */,
 				FEEF2C80234C8E19000373F3 /* LaunchScreen.storyboard */,
 				FEEF2C83234C8E19000373F3 /* Info.plist */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FED94524234C925200322FB3 /* iPhoneXS.storyboard in Resources */,
 				FEEF2C82234C8E19000373F3 /* LaunchScreen.storyboard in Resources */,
 				FEEF2C7F234C8E19000373F3 /* Assets.xcassets in Resources */,
 				FEEF2C7D234C8E15000373F3 /* Main.storyboard in Resources */,
